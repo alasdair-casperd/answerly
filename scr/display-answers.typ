@@ -1,7 +1,7 @@
 #import "@preview/itemize:0.2.0": item
 #import "clear-answers.typ": clear-answers
 
-#let display-answers = (clear: true) => {    
+#let display-answers = (clear: true) => {
   context {
     let answer-list = state("__answers-list__", ()).get()
     grid(

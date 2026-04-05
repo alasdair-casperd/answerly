@@ -12,7 +12,7 @@
   state("__answers-list__").update(a => {
     a.push((label: label, answer: body))
     a
-  })  
+  })
 
   // Display inline answers
   let inline-answers-formatter = state("___inline-answers___", none).get()

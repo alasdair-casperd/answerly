@@ -9,13 +9,13 @@
 + + Factorise $x^2 - 5 x + 6$. #ans[$(x - 2)(x - 3)$]
 
   + Hence solve the equation  $x^2 - 5 x + 6 = 0$. #ans[$x = 2$ or $x = 3$]
-  
+
 + Solve each of the following equations:
 
   + $x^2 - 9 = 16$ #ans[$x = plus.minus 5$]
 
   + $x^2 = 36 x$ #ans[$x = 36$ or $x = 0$]
 
-==  Answers
+== Answers
 
 #display-answers(clear: false)

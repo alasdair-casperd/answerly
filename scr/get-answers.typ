@@ -1,3 +1,3 @@
-#let get-answers = () => {    
+#let get-answers = () => {
   return state("__answers-list__", ()).get()
 }

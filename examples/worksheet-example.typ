@@ -20,13 +20,13 @@
 
 + The finite region $R$ is bounded by the coordinate axes and the curve$ y = sqrt((3 - x)(x + 1)), #h(2em) 0 <= x <= 3 $
 
-      + Use the substitution $x = 1 + 2 sin theta$ to show that
+  + Use the substitution $x = 1 + 2 sin theta$ to show that
 
-        $ integral_0^3 sqrt((3 - x)(x + 1)) dif x = k integral_(-pi/6)^(pi/2) cos^2 theta dif theta $
+    $ integral_0^3 sqrt((3 - x)(x + 1)) dif x = k integral_(-pi/6)^(pi/2) cos^2 theta dif theta $
 
-        where $k$ is a constant to be found.
+    where $k$ is a constant to be found.
 
-      + Hence find the exact area of $R$. #ans[$(4pi)/3 + sqrt(3)/2$]
+  + Hence find the exact area of $R$. #ans[$(4pi)/3 + sqrt(3)/2$]
 
 + + Show that
 

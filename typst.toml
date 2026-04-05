@@ -6,6 +6,6 @@ categories = [ "utility", "book" ]
 disciplines = [ "education" ]
 description = "Record and format answers to questions in worksheets or textbooks."
 authors = "Alasdair Casperd"
-license = "CC0"
+license = "MIT"
 repository = "https://github.com/alasdair-casperd/answerly"
 keywords = [ "answer", "worksheet", "exercise", "textbook", "solutions" ]

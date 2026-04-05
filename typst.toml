@@ -1,0 +1,7 @@
+[package]
+name = "answerly"
+version = "0.0.1"
+entrypoint = "lib.typ"
+categories = [ "utility", "book" ]
+disciplines = [ "education" ]
+description = "Record and format answers to questions in worksheets or textbooks"

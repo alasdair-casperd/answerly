@@ -9,3 +9,6 @@ authors = "Alasdair Casperd"
 license = "MIT"
 repository = "https://github.com/alasdair-casperd/answerly"
 keywords = [ "answer", "worksheet", "exercise", "textbook", "solutions" ]
+
+[package.exclude]
+paths = ["assets/**"]

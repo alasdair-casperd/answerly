@@ -10,8 +10,12 @@
 
   // Add the answer body to the answers list in state
   state("__answers-list__").update(a => {
-    a.push((label: label, answer: body))
-    a
+    if a.any(entry => entry.label == label and entry.answer == body) {
+      a
+    } else {
+      a.push((label: label, answer: body))
+      a
+    }
   })
 
   // Display inline answers
